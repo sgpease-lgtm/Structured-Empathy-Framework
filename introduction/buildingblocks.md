@@ -1,3 +1,6 @@
+---
+title: Four Foundations To Enable High‑Performance Strategy Delivery
+---
 # The Four Foundations To Enable High‑Performance Strategy Delivery
 ## The Building Blocks
 

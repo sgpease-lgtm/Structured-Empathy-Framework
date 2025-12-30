@@ -1,3 +1,6 @@
+---
+title: Introduction to the Structured Empathy Framework
+---
 # Introduction
 ## A practical, open framework for organisations who want to lead with empathy and deliver with confidence.
 Psychological safety isn’t a “nice to have.” It’s the foundation of high performing teams, resilient organisations, and leadership cultures where people think boldly, challenge constructively, and innovate without fear. Yet most organisations struggle to build it consistently. Efforts are often ad hoc, personality driven, or dependent on individual leaders.

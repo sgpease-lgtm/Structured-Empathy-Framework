@@ -1,3 +1,7 @@
+## <small>1.0.7 (2025-12-31)</small>
+
+* fix: escape version manifest for Eleventy ([a261101](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/a261101))
+
 ## <small>1.0.6 (2025-12-31)</small>
 
 * fix: install missing changelog preset ([1170365](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/1170365))

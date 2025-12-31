@@ -3,7 +3,7 @@
 
 This GitHub Repo forms the authoriative source for the Structured Empathy Framework, maintained by Forty Two Fold. The public facing website at www.structuredempathy.net is built automatically from this repostity.
 
-All contributions are welcome.
+Contributions are welcome.
 
 More to follow
 

@@ -16,7 +16,7 @@ module.exports = {
       "@semantic-release/exec",
       {
         prepareCmd:
-          "mkdir -p src/_data && echo '{\"version\": \"${nextRelease.version}\", \"released\": \"${nextRelease.gitTag}\", \"notes\": \"${nextRelease.notes}\"}' > src/_data/version.json && cat src/_data/version.json"
+          "mkdir -p src/_data && echo '{\"version\": \"${nextRelease.version}\", \"released\": \"${nextRelease.gitTag}\"}' > src/_data/version.json"
       }
     ],
 

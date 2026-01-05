@@ -6,8 +6,13 @@
         "preset": "angular",
         "releaseRules": [
           { "type": "Major", "release": "major" },
+          { "type": "major", "release": "major" },
+        
           { "type": "Minor", "release": "minor" },
-          { "type": "Fix",   "release": "patch" }
+          { "type": "minor", "release": "minor" },
+        
+          { "type": "Fix",   "release": "patch" },
+          { "type": "fix",   "release": "patch" }
         ]
       }
     ],

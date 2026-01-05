@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.3...v0.1.4) (2026-01-05)
+
+
+### Bug Fixes
+
+* Update .releaserc to maintain version.json ([052f72b](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/052f72bec9f8f08a69032a7a5265e1a62f0c42f7))
+
 ## [0.1.3](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.2...v0.1.3) (2026-01-05)
 
 

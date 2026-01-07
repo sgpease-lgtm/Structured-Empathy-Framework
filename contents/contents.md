@@ -14,8 +14,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Characteristics of Levels](../maturity-model/characteristics.md) - behaviours, systems and artefacts at each level
 ### Processes
 - [Foundation Processes](../processes/foundations.md) - key processes provide the underlying foundations
-- Contextual Processes - processes for specific situations
-- Failures & Recovery - what processes can be used when things go wrong
+- [Contextual Processes](../processes/contextual.md) - processes for specific situations, including when things go wrong
 ### Tools
 - Templates - examples, samples and checklists
 - Converstation Scaffolds - guides for particular situations

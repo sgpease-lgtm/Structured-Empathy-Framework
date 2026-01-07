@@ -1,7 +1,8 @@
 ---
 title: Building Blocks - Four Foundations To Enable High‑Performance Strategy Delivery
 ---
-## Building Blocks - Four Foundations To Enable High‑Performance Strategy Delivery
+## Building Blocks
+### Four Foundations To Enable High‑Performance Strategy Delivery
 
 The Structured Empathy Framework is designed to enable organisations to work along the other key building blocks to create an organsiation founded on a culture of Psychological Safety, in turn allowing the organisation to deliver their strategy with the highest performance.
 

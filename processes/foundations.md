@@ -15,7 +15,7 @@ What it enables:
 - Creates a shared reality
 - Supports fair, evidence based conversations
 
-### 2 - Assumption Surfacing & Testing
+### [2 - Assumption Surfacing & Testing](process2-assumptionsurfacingtesting.md)
 A structured method for identifying the stories, shortcuts, and interpretations we bring into interactions.  
 It encourages people to label assumptions explicitly and test them collaboratively rather than treating them as truth.
 What it enables:

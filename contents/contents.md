@@ -8,7 +8,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Overview](../introduction/overview.md) - including purpose and scope
 - [Building Blocks](../introduction/buildingblocks.md) - key enabling foundations
 - [Definitions](../introduction/definitions.md) - core terms, anti-definitions, distinctions
-- Principles - what underpins the framework
+- [Principles](../introduction/principles.md) - what underpins the framework
 ### Maturity Model
 - [Maturity Model](../maturity-model/maturitymodel.md) - how do you define levels of 'good
 - Characteristics of Levels - behaviours, systems and artefacts at each level

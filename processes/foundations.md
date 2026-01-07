@@ -25,7 +25,7 @@ What it enables:
 - Reduced conflict caused by misattribution
 - More accurate understanding of underlying drivers
 
-### 3 - Perspective Taking & Clarification
+### [3 - Perspective Taking & Clarification](process3-perspectivetakingclarification.md)
 A repeatable process for understanding someone’s internal logic, constraints, and motivations.  
 It uses curiosity, consent, and structured inquiry to build an accurate picture of how the other person sees the situation.
 What it enables:
@@ -33,7 +33,7 @@ What it enables:
 - Reduced defensiveness
 - Stronger alignment and collaboration
 
-### 4 - Boundary Setting & Maintenance
+### [4 - Boundary Setting & Maintenance](process4-boundarysettingmaintenance.md)
 A process for articulating, negotiating, and respecting boundaries—both personal and organisational.  
 It ensures that empathy does not collapse into over identification or blurred expectations.
 What it enables:
@@ -41,7 +41,7 @@ What it enables:
 - Psychological safety
 - Clear expectations and reduced friction
 
-### 5 - Constructive Challenge & Conflict Navigation
+### [5 - Constructive Challenge & Conflict Navigation](process5-constructivechallengeconflictnavigation.md)
 A structured approach to raising concerns, disagreeing, and navigating tension without damaging dignity or trust.  
 It emphasises candour delivered with care, and uses conflict as a source of insight rather than threat.
 What it enables:
@@ -49,7 +49,7 @@ What it enables:
 - Better decisions
 - Reliability under pressure
 
-### 6 - Feedback Loops & Reflective Practice
+### [6 - Feedback Loops & Reflective Practice](process6-feedbackloopsreflectivepractice.md)
 A process for gathering, analysing, and acting on feedback - both interpersonal and organisational.  
 It ensures that insights lead to adaptation, and that learning is continuous rather than episodic.
 What it enables:
@@ -57,7 +57,7 @@ What it enables:
 - Evidence based leadership
 - Early detection of cultural drift
 
-### 7 - Ritualised Communication & Meeting Norms
+### [7 - Ritualised Communication & Meeting Norms](process7-ritualisedcommunicationmeetingnorms.md)
 A set of predictable, repeatable communication patterns that embed psychological safety into everyday operations.  
 This includes check ins, retrospectives, decision making protocols, and conflict safe meeting formats.
 What it enables:
@@ -65,7 +65,7 @@ What it enables:
 - Reduced interpersonal risk
 - Reliable behaviour even under stress
 
-### 8 - User Manual Creation & Maintenance
+### [8 - User Manual Creation & Maintenance](process8-usermanualcreationmaintenance.md)
 A process for individuals to articulate how they work including their preferences, triggers, strengths, and non negotiables.  
 It reduces interpersonal guesswork and accelerates trust by making the implicit explicit.
 What it enables:
@@ -73,7 +73,7 @@ What it enables:
 - Reduced friction
 - More intentional collaboration
 
-### 9 - Escalation & Recovery Pathways
+### [9 - Escalation & Recovery Pathways](process9-escalationrecoverypathways.md)
 A structured method for handling breakdowns, breaches of trust, or moments where psychological safety is compromised.  
 It provides predictable routes for repair, accountability, and restoration.
 What it enables:
@@ -81,7 +81,7 @@ What it enables:
 - Reduced fear of speaking up
 - A culture where repair is normalised
 
-### 10 - Compassionate Accountability
+### [10 - Compassionate Accountability](process10-compassionateaccountability.md)
 A process for holding people (including leaders) accountable in a way that protects dignity and supports growth.  
 It balances compassion with clarity, ensuring that expectations are upheld without resorting to blame.
 What it enables:

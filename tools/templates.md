@@ -13,11 +13,16 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 
 ### Template for User Manuals
 
-[Template 1](usermanual-template1.md) - Professional style
+[User Manual Template 1](usermanual-template1.md) - Professional style
 
-[Template 2](usermanual-template2.md) - Human Centric Style
+[User Manual Template 2](usermanual-template2.md) - Human Centric Style
 
-[Template 3](usermanual-template3.md) - Playful Style
+[User Manual Template 3](usermanual-template3.md) - Playful Style
+
+#### Other templates
+
+[User Manual Creation Playbook](https://www.atlassian.com/team-playbook/plays/my-user-manual) by Atlassian  
+[User Manual Template](https://psychsafety.com/wp-content/uploads/2023/01/Psych-Safety-Personal-User-Manual-Template.pdf) by iterum
 
 ### Example User Manuals
 
@@ -32,3 +37,11 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 - [Andy Carolan](https://www.andycarolan.com/usermanual)
 - [Matthew](https://www.manualof.me/s/matthew)
 
+## Template for Team Charters
+
+[Team Charter Template 1](teamcharter-template1.md)
+[Team Charter Template 2](teamcharter-template2.md)
+
+#### Other templates
+
+[Team Charter Template](https://emlteambuilding.co.uk/wp-content/uploads/2024/03/Team-Charter-Template.pdf) by EML Team Building

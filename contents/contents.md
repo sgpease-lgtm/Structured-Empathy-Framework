@@ -19,7 +19,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Empathy Map](../tools/empathymap.md) - Structured template to aid development of Empathy for others
 - [User Manuals](../tools/usermanuals.md) - Templates for individual 'User Manuals', including samples
 - [Team Charters](../tools/teamcharters.md) - Templates for team charters
-- [Cross Team Alignment / Negotiation](../tools/teamalignment.md) - Templates for navigating cross team alignment workshops or negotiations
+- [Cross Team Alignment](../tools/teamalignment.md) - Templates for navigating cross team alignment workshops or negotiations
 ### Measures
 - Leading Indicators - behaviours, signals, interatactions
 - Lagging Indicators - outcomes, trust, retention, conflict resolution

@@ -13,9 +13,11 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 
 ### Template for User Manuals
 
-[Template 1](usermanual-template1.md)
+[Template 1](usermanual-template1.md) - Professional style
 
-[Template 2](usermanual-template2.md)
+[Template 2](usermanual-template2.md) - Human Centric Style
+
+[Template 3](usermanual-template3.md) - Playful Style
 
 ### Example User Manuals
 
@@ -28,3 +30,4 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 [Lily](https://grey-animal-909.notion.site/How-to-work-with-Lily-c5ad60f5b63d42f5b413acfe09b52c1c?pvs=143)
 [Andy Carolan](https://www.andycarolan.com/usermanual)
 [Matthew](https://www.manualof.me/s/matthew)
+[Andrew Carr](https://andrewjamescarr.github.io)

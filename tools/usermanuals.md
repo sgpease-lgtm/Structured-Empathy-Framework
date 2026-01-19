@@ -1,11 +1,11 @@
 ---
 title: User Manual Templates
 ---
-## User Manual Templates
+# User Manual Templates
 
 Described in the [User Manual](../processes/process8-usermanualcreationmaintenance.md) foundational process.
 
-### Structured Empathy Framework Templates
+## Structured Empathy Framework Templates
 
 [User Manual Template 1](usermanual-template1.md) - Professional style
 
@@ -18,7 +18,7 @@ Described in the [User Manual](../processes/process8-usermanualcreationmaintenan
 [User Manual Creation Playbook](https://www.atlassian.com/team-playbook/plays/my-user-manual) by Atlassian  
 [User Manual Template](https://psychsafety.com/wp-content/uploads/2023/01/Psych-Safety-Personal-User-Manual-Template.pdf) by iterum
 
-### Example User Manuals
+## Example User Manuals
 
 - [Simon Daykin](https://github.com/rocket5imon/UserManuals/blob/main/SimonDaykin.md) - Written technololgy instruction manual.
 - [Andrew Carr](https://andrewjamescarr.github.io)

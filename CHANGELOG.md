@@ -1,3 +1,10 @@
+## [0.3.2](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.3.1...v0.3.2) (2026-01-19)
+
+
+### Bug Fixes
+
+* First iteration of the Measures section ([4e4ca94](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/4e4ca94e1409a5bc9c3c7521387e37576086d606))
+
 ## [0.3.1](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.3.0...v0.3.1) (2026-01-19)
 
 

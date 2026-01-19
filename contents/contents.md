@@ -21,11 +21,8 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Team Charters](../tools/teamcharters.md) - Templates for team charters
 - [Cross Team Alignment](../tools/teamalignment.md) - Templates for navigating cross team alignment workshops or negotiations
 ### Measures
-- Leading Indicators - behaviours, signals, interatactions
-- Lagging Indicators - outcomes, trust, retention, conflict resolution
-- Measurement Methods - diagnostic tools, self assessment, peer review
-- Templates / Tools - Example surveys, questionaires etc.
-- Result Interpretation - how to recognise the information the data provides
+- [Indicators](../measures/indicators.md) - Leading, Lagging, Behavioural and Interaction Indicators
+- [Measurement Methods](../measures/measurements.md) - Self assessments, sample surveys and interpretation guidance
 ### Accountability Mechanisms
 - Organisational Design - consideration for governance structures, roles & responsibilities
 - Integration - reviews, performance management, escalation paths

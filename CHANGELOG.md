@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.3.0...v0.3.1) (2026-01-19)
+
+
+### Bug Fixes
+
+* Minor fixes to tools section ([cb04494](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/cb0449415460ff334a39e87a5fec6de7519a49f2))
+
 # [0.3.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.2.0...v0.3.0) (2026-01-19)
 
 # [0.2.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.1.7...v0.2.0) (2026-01-07)

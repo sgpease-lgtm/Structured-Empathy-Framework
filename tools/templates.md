@@ -59,16 +59,26 @@ Used to bring cohesion and mutual understanding of scope, identity, purpose, ali
 
 
 
-## Cross Team Alignment / Negotiation Templates
+## Cross Team Alignment / Negotiation
 
 Described in the [Cross Team Alignment & Boundary Negotiation](../processes/contextualprocess7-crossteamalignmentboundarynegotiation.md) contextual process.
 
 ### Templates for workshops / outcome agreements
 
-[Team Alignment Template 1](teamalignment-template1.md)
+[Team Alignment Template 1](teamalignment-template1.md) - Formal Template
 
-[Team Alignment Template 2](teamalignment-template2.md)
+[Team Alignment Template 2](teamalignment-template2.md) - Structured Dialogue Model / template 
 
-[Team Alignment Template 3](teamalignment-template3.md)  
+[Team Alignment Template 3](teamalignment-template3.md) - System Focused template
+
+
+## Empathy Maps
+
+A Structured Empathy Map enables you understand a person or group’s perceptions, influences, thoughts, feelings, and behaviours. It creates a clear foundation for insight, alignment, and compassionate decisions. The following template uses a simple quadrant model to help structure this excercise.
+
+[Empathy Map Template](empathymap-template1.md)
+
+
+
 
 

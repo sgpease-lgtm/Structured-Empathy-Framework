@@ -1,0 +1,15 @@
+---
+title: Templates
+---
+# Cross Team Alignment / Negotiation Templates
+
+Described in the [Cross Team Alignment & Boundary Negotiation](../processes/contextualprocess7-crossteamalignmentboundarynegotiation.md) contextual process.
+
+## Templates for workshops / outcome agreements
+
+[Team Alignment Template 1](teamalignment-template1.md) - Formal Template
+
+[Team Alignment Template 2](teamalignment-template2.md) - Structured Dialogue Model / template 
+
+[Team Alignment Template 3](teamalignment-template3.md) - System Focused template
+

@@ -16,7 +16,7 @@ The Structured Empathy Framework is built out into a number of major sections, r
 - [Foundation Processes](../processes/foundations.md) - key processes provide the underlying foundations
 - [Contextual Processes](../processes/contextual.md) - processes for specific situations, including when things go wrong
 ### Tools
-- Templates - examples, samples and checklists
+- [Templates](../tools/templates.md) - examples and samples
 - Converstation Scaffolds - guides for particular situations
 - Diagnositc Tools - gain insights and understanding
 - Facilitiation Guides - tools for faciliators

@@ -23,10 +23,9 @@ The Structured Empathy Framework is built out into a number of major sections, r
 ### Measures
 - [Indicators](../measures/indicators.md) - Leading, Lagging, Behavioural and Interaction Indicators
 - [Measurement Methods](../measures/measurements.md) - Self assessments, sample surveys and interpretation guidance
-### Accountability Mechanisms
-- Organisational Design - consideration for governance structures, roles & responsibilities
-- Integration - reviews, performance management, escalation paths
-- Breaches - maintaining psychological safety while enforcing standards 
+### Accountability
+- [Mechanisms](../accountability/mechanisms.md) - considerations across the organisational design, structures and processes
+- [Breaches](../accountability/breaches.md)_ - maintaining psychological safety while enforcing standards 
 ### Foundations & Theory Base
 - Conceptual model - key foundations that underpin the model
 - Supporting Theories - what research underpins the framework

@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 9 - Repair After Harm or Misstep
+title: Structured Empathy Framework Contextual Process 9 - Repair After Harm or Misstep
 ---
 ## Contextual Process 9
 # Repair After Harm or Misstep
@@ -36,3 +36,5 @@ To enable relationships to recover quickly and fairly after mistakes or breaches
 - Miscommunication or conflict  
 - Breaches of trust  
 - Moments where harm has been caused unintentionally
+
+Return to the [Contextual Processes](contextual.md) page.

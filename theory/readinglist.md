@@ -1,5 +1,5 @@
 ---
-title: Reading Material
+title: Structured Empathy Framework - Reading Material
 ---
 
 # Reading Material  
@@ -46,3 +46,10 @@ Defines the learning organisation and the disciplines required to sustain system
 ### *Humble Inquiry* — Edgar H. Schein & Peter A. Schein  
 Explores the practice of asking questions with genuine curiosity, putting emphasis on understanding perspectives and assumptions.  
 **Link:** [Available on Amazon UK](https://www.amazon.co.uk/Humble-Inquiry-Second-Relationships-Organizations/dp/B08VCTX6K4/)
+
+  
+The next page - [Case Studies](casestudies.md) - explores what organisations have done, particularly witih key constituant parts of the framework.
+
+Alternatively, explore the final section with supporting information including [about](../supporting/about.md) the background of the framework.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

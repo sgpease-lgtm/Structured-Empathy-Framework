@@ -20,7 +20,7 @@ This case study describes how a small corporate lending firm built psychological
 
 This case study explores how a UK rail organisation improved safety performance by redesigning safety conversations to be more open, curious, and non‑punitive. The intervention increased the quality of operational dialogue, strengthened trust with contractors, and enabled earlier identification of real‑world risks.
 
-The next page - [White Papersl](whitepapers.md) - includes discussion, example and ideas papers.
+The next page - [White Papers](whitepapers.md) - includes discussion, example and ideas papers.
 
 Alternatively, explore the final section with supporting information including [about](../supporting/about.md) the background of the framework.
 

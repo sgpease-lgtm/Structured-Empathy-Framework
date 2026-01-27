@@ -1,5 +1,5 @@
 ---
-title: Measurement Methods
+title: Structured Empathy Framework Measurement Methods
 ---
 
 # Measurement Methods
@@ -93,3 +93,7 @@ The most meaningful indicator is movement:
 
 ### Use results to guide action
 Measurement should lead to converstations, reflections or improvements. 
+
+The next section considers the [Mechanisms](../accountability/mechanisms.md) to integrate Accountability into the organisational design, structures and processes.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

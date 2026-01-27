@@ -1,5 +1,5 @@
 ---
-title: Team Charter - Example Template 2
+title: Structured Empathy Framework Team Charter - Example Template 2
 ---
 # Team Charter - Example Template 2
 
@@ -56,3 +56,5 @@ A short narrative describing:
 - How we reflect:  
 - How we learn:  
 - How we grow this charter as we grow as a team:  
+  
+Return to the [Team Charters](teamcharters.md) page.

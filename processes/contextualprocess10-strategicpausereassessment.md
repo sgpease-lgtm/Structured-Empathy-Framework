@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 10 - Strategic Pause & Reassessment
+title: Structured Empathy Framework Contextual Process 10 - Strategic Pause & Reassessment
 ---
 ## Contextual Process 10
 # Strategic Pause & Reassessment
@@ -36,3 +36,5 @@ To prevent drift, enable course correction, and create space for insight.
 - Signs of drift or misalignment  
 - Repeated friction or confusion  
 - Moments requiring strategic clarity
+
+Return to the [Contextual Processes](contextual.md) page.

@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 3 - Perspective Taking & Clarification
+title: Structured Empathy Framework Foundation Process 3 - Perspective Taking & Clarification
 ---
 ## Foundation Process 3
 # Perspective Taking & Clarification
@@ -38,3 +38,4 @@ To build empathic precision, reduce defensiveness, and strengthen alignment.
 - When building trust  
 - When making joint decisions  
 
+Return to the [Foundation Processes](foundations.md) page.

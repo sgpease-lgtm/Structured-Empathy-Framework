@@ -9,6 +9,6 @@ A Structured Empathy Map enables you understand a person or group’s perception
 
 The next page - [User Manuals](usermanuals.md) - provides examples and templates of individual 'User Manuals'.
 
-Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measures/indicators.md).
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

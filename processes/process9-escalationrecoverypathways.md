@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 9 - Escalation & Recovery Pathways
+title: Structured Empathy Framework Foundation Process 9 - Escalation & Recovery Pathways
 ---
 ## Foundation Process 9
 # Escalation & Recovery Pathways
@@ -36,3 +36,5 @@ To provide predictable routes for repair, accountability, and restoration.
 - When trust is damaged  
 - When behaviour breaches expectations  
 - When informal resolution fails  
+
+Return to the [Foundation Processes](foundations.md) page.

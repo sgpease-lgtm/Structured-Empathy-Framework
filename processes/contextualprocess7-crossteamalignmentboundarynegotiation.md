@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 7 - Cross Team Alignment & Boundary Negotiation
+title: Structured Empathy Framework Contextual Process 7 - Cross Team Alignment & Boundary Negotiation
 ---
 ## Contextual Process 7
 # Cross Team Alignment & Boundary Negotiation
@@ -36,3 +36,5 @@ To reduce territorial conflict and create reliable, collaborative interfaces bet
 - Cross‑functional projects  
 - Ambiguous ownership  
 - Repeated friction between teams
+
+Return to the [Contextual Processes](contextual.md) page.

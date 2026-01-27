@@ -85,3 +85,6 @@ A human‑readable summary of the standard CC BY-SA 4.0 license is available at:
 
 The specific license file for the Structure Empathy Framework is maintained in the GitHub repo [here](https://github.com/fortytwofold/Structured-Empathy-Framework/blob/main/LICENSE.md).
 
+The next and final page provides [contact](contact.md) information.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

@@ -172,3 +172,7 @@ Pull requests are reviewed by the Forty Two Fold staff as soon as possible once 
 The website is automatically rebuilt overnight from the 'main' repo.  So any approved pull requests should be automatically incorporated into the live website within 24 hours.
 
 If you need any help, please don't hesitate to reach out via the [contact](contact.md) page.
+
+The next page is the [Frequently Asked Questions - FAQ](faq.md).
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

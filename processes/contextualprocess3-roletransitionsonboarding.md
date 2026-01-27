@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 3 - Role Transitions & Onboarding
+title: Structured Empathy Framework Contextual Process 3 - Role Transitions & Onboarding
 ---
 ## Contextual Process 3
 # Role Transitions & Onboarding
@@ -36,3 +36,5 @@ To reduce uncertainty, accelerate integration, and ensure transitions are handle
 - New hires or internal moves  
 - Changes in scope or responsibility  
 - Team restructures or leadership transitions
+  
+Return to the [Contextual Processes](contextual.md) page.

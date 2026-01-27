@@ -1,5 +1,5 @@
 ---
-title: User Manual - Example Template 1
+title: Structured Empathy Framework User Manual - Example Template 1
 ---
 # User Manual - Example Template 1
 
@@ -28,3 +28,5 @@ title: User Manual - Example Template 1
 - How I respond under stress
 - What I need to recover
 - How I support others
+
+Return to the [User Manuals](usermanuals.md) page.

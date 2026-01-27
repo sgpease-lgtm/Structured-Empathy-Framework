@@ -1,5 +1,5 @@
 ---
-title: User Manual - Example Template 3
+title: Structured Empathy Framework User Manual - Example Template 3
 ---
 # User Manual - Example Template 3
 
@@ -20,3 +20,5 @@ title: User Manual - Example Template 3
 - Recent upgrades
 - Current experiments
 - Deprecated behaviours
+
+Return to the [User Manuals](usermanuals.md) page.

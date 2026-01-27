@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 1 - Decision Making Under Ambiguity
+title: Structured Empathy Framework Contextual Process 1 - Decision Making Under Ambiguity
 ---
 ## Contextual Process 1
 # Decision Making Under Ambiguity
@@ -38,3 +38,5 @@ To enable teams to move forward confidently when certainty is not available, ens
 - When information is incomplete  
 - During fast‑moving or uncertain situations  
 - When teams feel stuck or hesitant
+
+Return to the [Contextual Processes](contextual.md) page.

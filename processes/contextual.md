@@ -1,5 +1,5 @@
 ---
-title: Contextual Processes
+title: Contextual Processes in the Structured Empathy Framework
 ---
 # Contextual Processes
 
@@ -86,4 +86,9 @@ What it enables:
 -	Prevention of drift
 -	More intentional decision making
 -	Space for insight and recalibration
+
+
+Explore the next section looking at an [Empathy Map](../tools/empathymaps.md) tool that provides a structured template to aid development of empathy for others.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.
  

@@ -1,5 +1,5 @@
 ---
-title: Principles
+title: Principles of the Structured Empathy Framework
 ---
 ## The Principles
 
@@ -13,6 +13,9 @@ The following **_Principles_** ground the Structured Empathy Framework; they aim
 6.	**Make the Implicit Explicit** - Surface expectations, assumptions, and preferences early. Reducing ambiguity prevents avoidable conflict and accelerates collaboration.
 7.	**Treat Emotions as Signals, Not Instructions** - Acknowledge emotional cues without being ruled by them. Emotions provide valuable information but should not dictate interpretation or action. 
 8.	**Support Agency, Don’t Replace It** - Offer help that strengthens someone’s ability to act rather than taking over. Empower rather than rescue, unless asked.
-9.	** Treat Conflict as Information** - Conflict reveals misalignment, unmet needs, or unclear expectations. Approach it as a diagnostic opportunity rather than a threat.
+9.	**Treat Conflict as Information** - Conflict reveals misalignment, unmet needs, or unclear expectations. Approach it as a diagnostic opportunity rather than a threat.
 10.	**Protect Dignity at All Times** - Even in disagreement, feedback, or challenge, preserve the other person’s sense of worth. Dignity is the bedrock of trust and the anchor of compassion.
 
+Continue now to the next section, reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture built on psychological safety looks like.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

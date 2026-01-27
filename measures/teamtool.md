@@ -1,5 +1,5 @@
 ---
-title: Team Self‑Assessment
+title: Structured Empathy Framework - Team Self‑Assessment
 ---
 
 # Team Self‑Assessment
@@ -70,3 +70,5 @@ Ideally used before team workshop to identify key issues and associated entry po
 - What is one thing we could improve in how we communicate  
 - What is one thing we could improve in how we collaborate  
 - What support or change would help you do your best work  
+ 
+Return to the [Measurement Methods](measurement.md) page.

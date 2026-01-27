@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 5 - High Stakes Feedback Delivery
+title: Structured Empathy Framework Contextual Process 5 - High Stakes Feedback Delivery
 ---
 ## Contextual Process 5
 # High Stakes Feedback Delivery
@@ -36,3 +36,5 @@ To ensure difficult feedback lands cleanly, respectfully, and without unnecessar
 - Sensitive interpersonal issues  
 - Significant behavioural concerns  
 - Feedback with organisational impact
+
+Return to the [Contextual Processes](contextual.md) page.

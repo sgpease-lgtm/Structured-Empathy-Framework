@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 7 - Ritualised Communication & Meeting Norms
+title: Structured Empathy Framework Foundation Process 7 - Ritualised Communication & Meeting Norms
 ---
 ## Foundation Process 7
 # Ritualised Communication & Meeting Norms
@@ -36,3 +36,5 @@ To reduce interpersonal risk, create consistency across teams, and ensure behavi
 - All recurring meetings  
 - Decision‑making forums  
 - Conflict‑prone environments  
+
+Return to the [Foundation Processes](foundations.md) page.

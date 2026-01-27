@@ -1,5 +1,5 @@
 ---
-title: Team Charter - Example Template 1
+title: Structured Empathy Framework Team Charter - Example Template 1
 ---
 # Team Charter - Example Template 1
 
@@ -57,3 +57,5 @@ title: Team Charter - Example Template 1
 - How often we review this charter:  
 - How we measure team health:  
 - How we adapt when things change:
+  
+Return to the [Team Charters](teamcharters.md) page.

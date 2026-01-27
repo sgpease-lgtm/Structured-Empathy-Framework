@@ -1,5 +1,5 @@
 ---
-title: Contextual Process 6 - Conflict De-Escalation & Reset
+title: Structured Empathy Framework Contextual Process 6 - Conflict De-Escalation & Reset
 ---
 ## Contextual Process 6
 # Conflict De-Escalation & Reset
@@ -36,3 +36,5 @@ To enable teams to recover quickly from heated moments and maintain trust even d
 - Heated discussions  
 - Misunderstandings that escalate rapidly  
 - Moments where psychological safety is at risk
+
+Return to the [Contextual Processes](contextual.md) page.

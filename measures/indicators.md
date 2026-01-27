@@ -1,5 +1,5 @@
 ---
-title: Measurements - Leading & Lagging Indicators of Pscyhological Safety
+title: Structured Empathy Framework Measurements - Leading & Lagging Indicators of Pscyhological Safety
 ---
 # Measurements
 ## Leading & Lagging Indicators of Pscyhological Safety
@@ -56,3 +56,9 @@ Cross‑cutting signals that blend behaviour, trust, and team dynamics.
 | Follow‑through on commitments | Trust reinforced by reliable delivery | Quantitative | Delivery metrics, commitments met vs missed |
 | Rituals | Regular check‑ins, appreciations, and other Structured Empathy practices | Quantitative | Frequency of rituals used |
 
+
+The next page - [Measurement Methods](measurement.md) - provides examples and templates for self, team and organisational assessments.
+
+Alternatively, explore the next section considering the [Mechanisms](../accountability/mechanisms.md) to integrate Accountability into the organisational design, structures and processes.
+
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

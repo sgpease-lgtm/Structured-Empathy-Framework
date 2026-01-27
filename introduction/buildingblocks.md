@@ -37,6 +37,6 @@ At the centre — where all four conditions overlap — is the outcome every org
 
 The the next page - [Definitions](definitions.md) - explores the core terms, anti-definitions and distinctions to bring the framework to life.
 
-Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
+Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture built on psychological safety looks like.
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

@@ -1,5 +1,5 @@
 ---
-title: Foundation Process 6 - Feedback Loops & Reflective Practice
+title: Structured Empathy Framework Foundation Process 6 - Feedback Loops & Reflective Practice
 ---
 ## Foundation Process 6
 # Feedback Loops & Reflective Practice
@@ -36,3 +36,5 @@ To ensure learning is continuous, evidence‑based, and integrated into behaviou
 - After key events  
 - During retrospectives  
 - When culture begins to drift  
+
+Return to the [Foundation Processes](foundations.md) page.

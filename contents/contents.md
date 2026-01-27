@@ -1,5 +1,8 @@
 ---
 title: Structured Empathy Framework - Contents
+permalink:
+  - "contents/index.html"
+  - "contents/contents/index.html"
 ---
 # Contents
 The Structured Empathy Framework is built out into a number of major sections, recognising the key components of the framework.  Within those sections are articles, content, references and materials that support that area of the framework.

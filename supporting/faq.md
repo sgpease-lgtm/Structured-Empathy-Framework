@@ -21,6 +21,10 @@ A: The structure reflects what consistently helps people communicate, collaborat
 
 A: No. The Framework is intentionally iterative and will evolve as people use it, test it, and share what works. Please - we would value your own [contribution](contributing.md) as you review, use, exploit and develop your own practices based upon it.
 
+### Q: Is just AI slop?
+
+A: No! This is developed by humans based on research and experience. While AI will have been used to help build and format some of the site, its is always driven and carefully reviewed by humans.  
+
 ### Q: How can I contribute?
 
 A: You can propose edits, suggest examples, raise issues, or share insights from your own practice. Contributions don’t need to be perfect — they just need to be thoughtful and constructive. You can understand how to contribute via the [contributions](contributing.md) page.

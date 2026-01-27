@@ -1,3 +1,16 @@
+# [0.8.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.7.0...v0.8.0) (2026-01-27)
+
+
+### Bug Fixes
+
+* Correct spelling in diagram ([82f1112](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/82f111204441dad22d8b1afd371cff7a0043c322))
+* Fix navigation and Clarify title in characteristics.md ([9452d84](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/9452d8429744311d9d387345481e73d1714f8a14))
+* Revise title and navigation of contextual processes document ([1d2958d](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/1d2958db0cb1680da6cf31714e361a9706cc3be9))
+* Revise title for and navigation Foundation Processes  ([85316f4](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/85316f4432f75a7c6200af21c7185f30efacca54))
+* Revise title, navigation and definitions in definitions.md ([1c33582](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/1c3358257f390f79320eacfaab4a30ce0d476f1c))
+* Title and navigation to maturitymodel.md ([f3622d3](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/f3622d3e7dc9a52b7c1888f1fb735a01fe7315a9))
+* Update title and enhance clarity in building blocks ([6206a9f](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/6206a9f07a4d6ce5c6ad0350a14db9d1bf2a49cc))
+
 # [0.7.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.6.0...v0.7.0) (2026-01-23)
 
 # [0.6.0](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.5.0...v0.6.0) (2026-01-20)

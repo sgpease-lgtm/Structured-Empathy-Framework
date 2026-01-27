@@ -25,8 +25,8 @@ Organisations that invest in psychological safety consistently see:
 
 Structured Empathy gives you the tools to build these outcomes deliberately, not accidentally.
 
-Explore the [Building Blocks](buildingblocks.md), for which the Structured Empathy Framework is part of, that enables organisations to effectively deliver against strategy with high performance.
+Explore the next page - [Building Blocks](buildingblocks.md) - exploring the four foundations, of which the Structured Empathy Framework is part, which enables organisations to effectively deliver against strategy with high performance.
 
-Review the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
+Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
 
-_More to follow_
+You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

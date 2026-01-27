@@ -27,6 +27,6 @@ Structured Empathy gives you the tools to build these outcomes deliberately, not
 
 Explore the next page - [Building Blocks](buildingblocks.md) - exploring the four foundations, of which the Structured Empathy Framework is part, which enables organisations to effectively deliver against strategy with high performance.
 
-Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture build on psychological safety looks like.
+Altneratively, explore the next section including reviewing the [Maturity Model](../maturity-model/maturitymodel.md) that enables organisations to explore what a culture built on psychological safety looks like.
 
 You can always return to the [Contents Page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

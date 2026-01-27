@@ -21,6 +21,6 @@ Used to bring cohesion and mutual understanding of scope, identity, purpose, ali
 
 The next page - [Cross Team Alignment](teamalignment.md) - provides templates to support navigating cross team alignment workshops or negotiations.
 
-Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measurement/indicators.md).
+Alternatively, explore the next section looking at leading, lagging, behavioural and interaction [Indicators](../measures/indicators.md).
 
 You can always return to the [contents page](../contents/contents.md) by clicking the 'Structured Empathy Framework' title at the top of the page.

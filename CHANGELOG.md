@@ -1,3 +1,10 @@
+## [0.8.2](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.1...v0.8.2) (2026-02-02)
+
+
+### Bug Fixes
+
+* Update overview.md to incorporate USS Carl Vinson example as a quotation ([a1064ca](https://github.com/fortytwofold/Structured-Empathy-Framework/commit/a1064cabcb0171e07beda24abf7607074f86e03c))
+
 ## [0.8.1](https://github.com/fortytwofold/Structured-Empathy-Framework/compare/v0.8.0...v0.8.1) (2026-02-02)
 
 

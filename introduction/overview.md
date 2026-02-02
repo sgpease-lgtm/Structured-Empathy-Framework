@@ -3,6 +3,11 @@ title: Introduction to the Structured Empathy Framework
 ---
 # Introduction
 ## A practical, open framework for organisations who want to lead with empathy and deliver with confidence.
+
+> “On the USS Carl Vinson, a nuclear aircraft carrier, a seaman reports to the Air Boss that he has lost a tool he was using on deck. There are a dozen or so planes in the air. The Air Boss halts all landings, redirects the planes to land bases and orders a crew of hundreds into a search formation to scour every inch of the deck. The tool is found. The next day there is a formal deck ceremony, the purpose of which is to commend the seaman who had reported the loss. With a loose tool on deck, the engine of a plane that is landing could easily suck it up, explode and create havoc. The ideas is that error is not to be concealed; never."
+>  
+> _Source: “The Arrogance of Optimism: Notes on Failure-Avoidance Management” by Martin Landau and Donald Chisholm (page 77)_
+
 Psychological safety isn’t a “nice to have.” It’s the foundation of high performing teams, resilient organisations, and leadership cultures where people think boldly, challenge constructively, and innovate without fear. Yet most organisations struggle to build it consistently. Efforts are often ad hoc, personality driven, or dependent on individual leaders.
 The Structured Empathy Framework changes that.
 

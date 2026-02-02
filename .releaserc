@@ -30,7 +30,7 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "mkdir -p src/_data && echo '{\"version\": \"${nextRelease.version}\", \"released\": \"${nextRelease.gitTag}\"}' > src/_data/version.json"
+        "prepareCmd": "echo '{\"version\": \"${nextRelease.version}\", \"released\": \"${nextRelease.gitTag}\"}' > version.json"
       }
     ],
 
@@ -39,7 +39,7 @@
       {
         "assets": [
           "CHANGELOG.md",
-          "src/_data/version.json"
+          "version.json"
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]"
       }
@@ -50,7 +50,7 @@
       {
         "assets": [
           {
-            "path": "src/_data/version.json",
+            "path": "version.json",
             "label": "version.json"
           }
         ]
@@ -58,3 +58,4 @@
     ]
   ]
 }
+

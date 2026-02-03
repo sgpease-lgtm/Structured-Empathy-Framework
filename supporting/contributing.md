@@ -3,38 +3,60 @@ title: Contributing to the Structured Empathy Framework
 ---
 # Contributing to the Structured Empathy Framework
 
-This short guide is to help you contribute content for the Structured Empathy Framework in an easy and consistent way.  
+This short guide is to help you contribute content for the Structured Empathy Framework in an easy and consistent way.
 
-For the **technical people** - the TL:DR is its all in a public [GitHub Repo](https://github.com/fortytwofold/Structured-Empathy-Framework) in Markdown. Note the guiderails in the primer below, but please just dive in and propose changes via Pull Requests.
+For the **technical people** — the TL;DR is that everything lives in a public [GitHub repository](https://github.com/fortytwofold/Structured-Empathy-Framework) written in Markdown. Please note the guide rails in the primer below, but otherwise feel free to dive in and propose changes via Pull Requests.
 
-For the **non-technical people** - please don't be scared - this is actually realy easy, you just need to understand two key aspects.
+For the **non-technical people** - please don't be scared - this is actually really easy, you just need to understand two key aspects.
 
 Firstly - **GitHub**.  GitHub is the leading online tool for hosting and managing opensource. While it is massively used for Software, it is equally suited for managing frameworks such as this.  There are a view key concepts to learn:
 
-### Main Branch
-Think of the main branch as the official, published version of the work — the “source of truth.”
-It’s the tidy, reliable copy that everyone trusts. Nothing goes into it until it’s been checked and agreed.
+### Main Branch  
+Think of the **main** branch as the official, published version of the Framework — the “source of truth.”  
+It’s the tidy, reliable copy that everyone trusts. Nothing goes into it until it has been reviewed and agreed.
 
-### Branches
-A branch is like taking a photocopy of the main document so you can work on your own version without affecting the official one.
-You can experiment, improve wording, add ideas, or fix things — all without risking the main version.
+### Forks  
+Instead of editing the official version directly, GitHub gives you your own personal copy called a **fork**.  
+A fork is like taking a photocopy of the Framework so you can work freely without affecting the original.
 
-### Commits
-A commit is a small, saved step in your work on a branch.
-It’s like writing a sticky note that says: “I changed this bit, and here’s why.”
+You create your fork by clicking the **Fork** button at the top‑right of the repository page.
+
+### Commits  
+A commit is a small, saved step in your work.  
+It’s like writing a sticky note that says: “I changed this bit, and here’s why.”  
 Commits help track progress and make it easy to review or undo changes if needed.
 
-### Pull Requests
-A pull request (often called a PR) is how you ask for your changes to be added back into the official main branch.
+### Pull Requests  
+A pull request (PR) is how you ask for your changes to be added back into the official Framework.  
 It’s a structured way of saying:
-“I’ve made some improvements — can someone review them and merge them in?”
-Pull requests create a safe, transparent space for discussion, feedback, and refinement before anything becomes part of the main version.
 
-So to contribute to the Framework, you need to have a GitHub account - if you don't have one these are free and you can set one up [here](https://github.com/signup).
+> “I’ve made some improvements — could someone review them and merge them into the main version?”
 
-With a GitHub account, you can then use the Public ['Structured Empathy Framework' Repositry](https://github.com/fortytwofold/Structured-Empathy-Framework). The best thing to do is click on the branch (the drop down button that says *'Main'*) and create yourself your own branch - name it anything you like.
+Pull requests create a safe, transparent space for discussion, feedback, and refinement before anything becomes part of the published Framework.
 
-From here you can go in and edit any file in the Framework, 'committing' your changes to your own branch. Once you are happy you have a collection of changes you want to submit into the main version of the Framework, click on 'Pull Request' and submit a pull request to merge your changes into 'main'.  Once this is succesfully done, its worth pressing the button to delete your branch and start a new one, just as it helps keep things tidy.
+### How to contribute step‑by‑step
+
+1. **Create a GitHub account**  
+   If you don’t already have one, you can sign up for free [here](https://github.com/signup).
+
+2. **Fork the Structured Empathy Framework repository**  
+   Visit the public repo and click **Fork**.
+
+3. **Make your changes in your fork**  
+   Open any page and click **Edit**.  
+   You can improve wording, add ideas, fix typos, or propose new content.
+
+4. **Commit your changes**  
+   Add a short message explaining what you changed and why.
+
+5. **Open a Pull Request**  
+   When you’re ready, click **Pull Request** to ask for your changes to be reviewed and merged into the official Framework.
+
+6. **Keep things tidy**  
+   After your pull request is merged, you can delete your fork or update it later if you want to contribute again.
+
+This workflow keeps everything safe, simple, and transparent — and it’s the standard approach used across open‑source communities.
+
 
 The second key aspect to understand is **Markdown**.  Markdown is very simply a way of adding simple symbols into plain text to define what is a heading, what should be in bold, and other basic formatting.  There is a 'Primer' below that explains this, but as you will see it is very simple and easy way of writing documentation and allowing it to be easily transformed into a website and other formats like PDFs.
 
